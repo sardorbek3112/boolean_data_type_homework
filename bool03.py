@@ -5,4 +5,4 @@ def main(b):
     Returns:
         bool
     """
-    return b%2==0
+    return b>0
